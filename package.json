@@ -15,6 +15,9 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.3",
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-typescript-prettier": "^4.2.0",
+    "prettier": "^2.2.1",
     "typescript": "^4.2.4"
   }
 }
